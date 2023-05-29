@@ -91,7 +91,7 @@ html {
   .cards .box-ip {
    margin: 5px;
     padding: 5px;
-    /* max-width: 350px; */
+    min-width: 350px; 
   }
 }
 .cards .box-ip:hover {
