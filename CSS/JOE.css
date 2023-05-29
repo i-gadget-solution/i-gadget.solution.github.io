@@ -89,8 +89,9 @@ html {
 
 @media (max-width: 450px) {
   .cards .box-ip {
-    margin:  auto;
-    min-width:350px
+   margin: 5px;
+    padding: 5px;
+    /* max-width: 350px; */
   }
 }
 .cards .box-ip:hover {
