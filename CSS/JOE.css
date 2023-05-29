@@ -90,7 +90,7 @@ html {
 @media (max-width: 450px) {
   .cards .box-ip {
     margin:  auto;
-    
+    min-width:350px
   }
 }
 .cards .box-ip:hover {
