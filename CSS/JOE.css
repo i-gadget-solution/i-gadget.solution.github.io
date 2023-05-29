@@ -89,7 +89,7 @@ html {
 
 @media (max-width: 450px) {
   .cards .box-ip {
-   margin: 5px;
+   margin:0
     padding: 10px;
     min-width: 350px; 
   }
